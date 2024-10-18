@@ -1,4 +1,4 @@
-package lektion2;
+package lektion3;
 
 public class Application {
 
