@@ -25,7 +25,7 @@
 ## Varför dela upp stegen i olika metoder?
 
 En metod är enkelt förklarat ett kodblock med en instruktion om vad som skall
-göras. Enligt teorin så är best practice att vaje metod bara skall göra EN sak,
+göras. Enligt teorin så är best practice att varje metod bara skall göra EN sak,
 one thing only. Metoden skall också döpas till något som är tydligt samt beskrivande
 för vad metoden gör.
 
