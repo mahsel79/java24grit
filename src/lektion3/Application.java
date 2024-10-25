@@ -1,28 +1,26 @@
 package lektion3;
 
+import java.util.Random;
+
 public class Application {
 
     public static void main(String[] args) {
+        Loopar loop = new Loopar();
+        loop.testForLoop();
+        loop.testWhileLoop();
+        Loopar.printName();
+        printName();
+    }
 
-        for(int i = 1; i < 11; i++) {
-            System.out.print(i + " ");
-        }
+    private static int magicNumber() {
+        Random rnd = new Random();
+        return rnd.nextInt(100)+1;
+    }
+    private static void printName() {
+        System.out.println(sayHello("Ar", magicNumber()));
+    }
 
-        System.out.println("\n===================\n");
-
-        int number = 1; //0;
-        while(number < 11) { //10) {
-            //++number;
-            System.out.print(number + " ");
-            number++;
-        }
-
-        System.out.println("\n===================\n");
-        int num = 1; //1;
-
-        do {
-            System.out.print(num + " ");
-            num++;
-        } while (num < 11);
+    private static String sayHello(String name, int number) {
+        return "Hello " + name +" " + number;
     }
 }
