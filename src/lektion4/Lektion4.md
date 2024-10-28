@@ -112,6 +112,19 @@ För varje iteration / varv, kommer värdet skrivas ut i consolen.
 
 Denna loop är väldigt behändig om vi enbart är ute efter att exempelvis skriva ut hela listan.
 
+## Misc
+En annan grej vi pratade om på lektionen handlade om hur vi jämför userinput - alltså när vi använder scanner.
+Det är alltid av god vana spara undan usesInput om värdena skall användas för att jämföra. Exempelvis via en if-sats.
+
+Det blir INTE bra att exempelvis göra `if(scanner.nextLine().equals("hej") || scanner.nextLine().equals("hej2")`.
+När vi skriver på detta sätt, förväntar sig vårt program att få user input 2 gånger. Alltså varje gång vi kallar på nextLine().
+
+Istället - spara värdet och jämför efter!
+
+```
+String userInput = scanner.nextLine();
+if(scanner.nextLine().equals("hej") || scanner.nextLine().equals("hej2")
+```
 ## Djupdykning
 
 ### The Big O
