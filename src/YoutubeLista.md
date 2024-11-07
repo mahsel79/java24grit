@@ -37,6 +37,17 @@
 - Recursive method - https://www.youtube.com/watch?v=k-7jJP7QFEM
 - Difference between Recursion and Iteration - https://www.geeksforgeeks.org/difference-between-recursion-and-iteration/
 
+## Swing
+- BorderLayout - https://www.youtube.com/watch?v=PD6pd6AMoOI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=53
+- FlowLayout - https://www.youtube.com/watch?v=pDqjHozkMBs&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=54
+- GridLayout - https://www.youtube.com/watch?v=ohNqQagkDDY&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=55
+
+- GUI - https://www.youtube.com/watch?v=7GaAW-DdPuI&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=49
+- JLabel - https://www.youtube.com/watch?v=FR2UptJyaSM&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=50
+- JPanel - https://www.youtube.com/watch?v=dvzAuq-YDpM&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=51
+- JButton - https://www.youtube.com/watch?v=-IMys4PCkIA&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=52
+- JTextField - https://www.youtube.com/watch?v=dyDDUndlMnU&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=59
+- 
 ## Saker som är bra att titta på
 Här finns en lista på saker vi antingen nuddat vid och inte fördjupat oss i,
 alternativt saker som vi inte pratat om, men som är en förlängning av det vi pratat om. Kan hända att dessa saker kommer
