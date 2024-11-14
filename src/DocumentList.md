@@ -25,3 +25,8 @@ JPanel - https://docs.oracle.com/javase/7/docs/api/javax/swing/JPanel.html
 - GridBagLayout - https://docs.oracle.com/javase/tutorial/uiswing/layout/gridbag.html
 - GridLayout - https://docs.oracle.com/javase/tutorial/uiswing/layout/grid.html
 - SpringLayout - https://docs.oracle.com/javase/tutorial/uiswing/layout/spring.html
+
+### IntelliJ
+- Breakpoints: https://www.jetbrains.com/help/idea/using-breakpoints.html
+- Evaluate: https://www.jetbrains.com/help/idea/examining-suspended-program.html#evaluate-arbitrary
+- Set Value: https://www.jetbrains.com/help/idea/tutorial-set-value.html
